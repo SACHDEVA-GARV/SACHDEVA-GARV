@@ -1,16 +1,29 @@
-## Hi there 👋
+### Hi there 👋, I'm Garv Sachdeva
 
-<!--
-**SACHDEVA-GARV/SACHDEVA-GARV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "Believe you can, and you're halfway there." - Theodore Roosevelt
 
-Here are some ideas to get you started:
+* 💻 Computer Science Student at IIIT-Delhi with a passion for Software Development, Algorithms, and Open Source.
+* 🚀 Building things with Java, Python, JavaScript (including SvelteKit & React.js), C++, and C.
+* 🌱 Currently deepening my understanding of SvelteKit for the **Waystation project**, mastering the **OneBusAway REST API**, and exploring efficient web development practices.
+* ✍️ Sharing my learnings on Data Structures, Algorithms, and Web Development on my blog: [R.A.S CODERS](YOUR_BLOG_LINK_HERE)  <br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Tech Stack & Skills
+
+* **Languages:** Java (Advanced), Python, JavaScript, C++, C, SQL
+* **Frontend:** SvelteKit, React.js, HTML5, CSS3, Tailwind CSS
+* **Backend:** Node.js (familiarity via JS), Experience with OOP principles
+* **Databases:** MySQL
+* **Tools & Concepts:** Git, GitHub, REST APIs, Vitest (testing), Data Structures & Algorithms, Operating Systems, DBMS, Computer Networks
+* **Other:** Technical Blogging, Problem-Solving
+
+<br/>
+
+## Current Focus (Waystation Project Prep)
+
+* **SvelteKit:** Advanced state management ($state, $derived), load functions, endpoint handling.
+* **OneBusAway REST API:** Deep dive into `arrivals-and-departures-for-stop`, response structures (including alerts), error handling.
+* **Waystation Codebase:** Analyzing existing structure (`github.com/OneBusAway/waystation`), `obaSdk.js`, testing patterns (Vitest).
+* **Testing:** Best practices for testing reactive Svelte components with Vitest.
+
+<br/>
