@@ -5,7 +5,7 @@
 * 💻 Computer Science Student at IIIT-Delhi with a passion for Software Development, Algorithms, and Open Source.
 * 🚀 Building things with Java, Python, JavaScript (including SvelteKit & React.js), C++, and C.
 * 🌱 Currently deepening my understanding of SvelteKit for the **Waystation project**, mastering the **OneBusAway REST API**, and exploring efficient web development practices.
-* ✍️ Sharing my learnings on Data Structures, Algorithms, and Web Development on my blog: [R.A.S CodeSetu]((https://rascodesetu.blogspot.com/))  <br/>
+* ✍️ Sharing my learnings on Data Structures, Algorithms, and Web Development on my blog: [R.A.S CodeSetu]([https://rascodesetu.blogspot.com/])  <br/>
 
 
 ## Tech Stack & Skills
