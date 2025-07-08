@@ -1,21 +1,44 @@
 ### Hi there 👋, I'm Garv Sachdeva
 
-> "Believe you can, and you're halfway there." - Theodore Roosevelt
+> "Believe you can, and you're halfway there." — Theodore Roosevelt
 
-* 💻 Computer Science Student at IIIT-Delhi with a passion for Software Development, Algorithms, and Open Source.
-* 🚀 Building things with Java, Python, JavaScript (including SvelteKit & React.js), C++, and C.
-* 🌱 Currently deepening my understanding of SvelteKit for the **Waystation project**, mastering the **OneBusAway REST API**, and exploring efficient web development practices.
-* ✍️ Sharing my learnings on Data Structures, Algorithms, and Web Development on my blog: [R.A.S CodeSetu]([https://rascodesetu.blogspot.com/])  <br/>
+ Computer Science student at **IIIT-Delhi** (2022–2026), passionate about **Software Development**, **Web Technologies**, and **Algorithms**.
 
+---
 
-## Tech Stack & Skills
+## ✨ What I'm Working On
 
-* **Languages:** Java (Advanced), Python, C++, C, SQL
-* **Frontend:**  JavaScript, HTML5, CSS3
-* **Databases:** MySQL
-* **Tools & Concepts:** Git, GitHub, Data Structures & Algorithms, Operating Systems, DBMS, Computer Networks
-* **Other:** Technical Blogging, Problem-Solving
+-  Building full-stack applications using **MERN** and **Node.js + EJS** stacks
+-  Exploring advanced topics in **DSA**, **Operating Systems**, and **Computer Networks**
+-  Writing technical blogs on **Data Structures**, **Competitive Programming**, and **Web Development**
 
-<br/>
+ Blog: [R.A.S. CodeSetu](https://rascodesetu.blogspot.com/)
 
+---
 
+## 🛠 Tech Stack & Skills
+
+**Languages:** Java (Primary), C++, JavaScript, SQL  
+**Frontend:** HTML5, CSS3, JavaScript, React.js, Bootstrap, Tailwind CSS  
+**Backend:** Node.js, Express.js  
+**Databases:** MySQL, MongoDB  
+**Tools:** Git, GitHub, VS Code, Postman  
+**Core Subjects:** Data Structures & Algorithms, OS, DBMS, CN
+
+---
+
+## 🌐 Featured Projects
+
+- **[AirBnb Clone](https://github.com/SACHDEVA-GARV/Airbnb-Clone)** — Full-Stack CRUD App with role-based access and image uploads  
+- **[TaskFlow](https://github.com/SACHDEVA-GARV/Customized-todo-app)** — Task Manager with JWT Auth, REST APIs, and React UI  
+- **[Social Media App](https://github.com/SACHDEVA-GARV/social-media-app)** — Basic post/feed layout using frontend stack  
+- **[Currency Converter](https://github.com/SACHDEVA-GARV/Currency-Converter)** — Real-time currency conversion using API
+
+---
+
+## 📬 Get in Touch
+
+🔗 LinkedIn: [Garv Sachdeva](https://www.linkedin.com/in/garv-sachdeva-10210a253/)  
+🔗 GitHub: [SACHDEVA-GARV](https://github.com/SACHDEVA-GARV)
+
+---
