@@ -9,6 +9,7 @@
 ## ✨ What I'm Working On
 
 -  Building full-stack applications using **MERN** and **Node.js + EJS** stacks
+-  Continuously learning new technologies — recently explored OpenAI's API, integrated AI features into my apps, and actively experimenting with Generative AI and task automation
 -  Exploring advanced topics in **DSA**, **Operating Systems**, and **Computer Networks**
 -  Writing technical blogs on **Data Structures**, **Competitive Programming**, and **Web Development**
 
@@ -22,7 +23,8 @@
 **Frontend:** HTML5, CSS3, JavaScript, React.js, Bootstrap, Tailwind CSS  
 **Backend:** Node.js, Express.js  
 **Databases:** MySQL, MongoDB  
-**Tools:** Git, GitHub, VS Code, Postman  
+**Tools:** Git, GitHub, VS Code, AI API Integration (Google Gemini),  
+REST API Consumption (3rd Party APIs)   
 **Core Subjects:** Data Structures & Algorithms, OS, DBMS, CN
 
 ---
@@ -30,7 +32,7 @@
 ## 🌐 Featured Projects
 
 - **[AirBnb Clone](https://github.com/SACHDEVA-GARV/Airbnb-Clone)** — Full-Stack CRUD App with role-based access and image uploads  
-- **[TaskFlow](https://github.com/SACHDEVA-GARV/Customized-todo-app)** — Task Manager with JWT Auth, REST APIs, and React UI  
+- **[TaskPilot-AI](https://github.com/SACHDEVA-GARV/TaskPilot-AI)** — Intelligent Task Management with Prioritization & Insights
 - **[Social Media App](https://github.com/SACHDEVA-GARV/social-media-app)** — Basic post/feed layout using frontend stack  
 - **[Currency Converter](https://github.com/SACHDEVA-GARV/Currency-Converter)** — Real-time currency conversion using API
 
