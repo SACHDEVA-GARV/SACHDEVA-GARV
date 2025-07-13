@@ -31,8 +31,8 @@ REST API Consumption (3rd Party APIs)
 
 ## 🌐 Featured Projects
 
-- **[AirBnb Clone](https://github.com/SACHDEVA-GARV/Airbnb-Clone)** — Full-Stack CRUD App with role-based access and image uploads  
 - **[TaskPilot-AI](https://github.com/SACHDEVA-GARV/TaskPilot-AI)** — Intelligent Task Management with Prioritization & Insights
+- **[AirBnb Clone](https://github.com/SACHDEVA-GARV/Airbnb-Clone)** — Full-Stack CRUD App with role-based access and image uploads  
 - **[Social Media App](https://github.com/SACHDEVA-GARV/social-media-app)** — Basic post/feed layout using frontend stack  
 - **[Currency Converter](https://github.com/SACHDEVA-GARV/Currency-Converter)** — Real-time currency conversion using API
 
